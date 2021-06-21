@@ -1,0 +1,13 @@
+<!---
+Logan-Hansen/Logan-Hansen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+- 👋 Hi, I’m @Logan-Hansen
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+--->
+
+## Stats
+<span><img align="center" src="https://github-readme-stats.vercel.app/api?username=ithilendil&theme=merko" alt="ithilendil's Stats" /></span>
+<span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ithilendil&theme=merko" alt="ithilendil's Languages" /></span>
