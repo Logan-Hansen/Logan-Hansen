@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 
 ## Stats
 <span><img align="center" src="https://github-readme-stats.vercel.app/api?username=Logan-Hansen&theme=transparent&hide=contribs,prs,issues&show_icons=true" alt="Logan's Stats" /></span>
-<span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Logan-Hansen&theme=transparentlayout=pie" alt="Logan's Languages" /></span>
+<span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Logan-Hansen&theme=transparent&layout=pie" alt="Logan's Languages" /></span>
